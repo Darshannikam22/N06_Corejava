@@ -10,7 +10,7 @@ public class UserInput_Demo {
 		Scanner s =new Scanner(System.in);
 		System.out.println("Enter a string:");
 		String strl=s.nextLine();
-		System.out.println("String is :"+S);
+		System.out.println("String is :"+s);
 				
 
 	}
